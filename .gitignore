@@ -1,0 +1,13 @@
+/.idea
+/.next
+
+node_modules/
+dist/
+offline_source_package/*
+public/*
+
+resources/template_ui/themeforest-template-1
+
+package-lock.json
+
+*storybook.log
